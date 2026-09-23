@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "causal-loop-handbook",
+    "url": "https://cascadeinstitute.org/wp-content/uploads/2024/06/Causal-Loop-Diagrams-Handbook-June-27-2024.pdf",
+    "bytes": 4112738,
+    "sha256": "2e6a3358587036260beb3e1eb50aabc395c39ba50e0eea8e96b4a9d336f0d916",
+    "media_type": "application/pdf",
+    "extracted_text": "external-sources/causal-loop-handbook.txt",
+    "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
+    "text_sha256": "982509405bea4de7f2701731dd546d040cec016543df224fc68e01929d8e1e65"
+  },
+  {
+    "slug": "policy-synth-paper",
+    "url": "https://arxiv.org/pdf/2407.13960",
+    "bytes": 4150376,
+    "sha256": "316a78a2a9536f6382aeedde7b01ba1a5726f4b28a6b39dc81e4f99578a575a0",
+    "media_type": "application/pdf",
+    "extracted_text": "external-sources/policy-synth-paper.txt",
+    "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
+    "text_sha256": "4452b9d9be17b02c461ab8bfc3b78662634426be51f3eb79014f7c2f03ebd22d"
+  },
+  {
+    "slug": "impact-studios-deck",
+    "url": "https://directus.theburnescenter.org/assets/8fc5a5e5-6dfc-442d-976f-aa2cd4843188",
+    "bytes": 3726130,
+    "sha256": "efd9aff4636680d8e2abe239b7721a88a8e4232ba923f1c62987ef07ae84e485",
+    "media_type": "application/pdf",
+    "extracted_text": "external-sources/impact-studios-deck.txt",
+    "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
+    "text_sha256": "d842e5a0ae58d8b2cfff506694889367ebff17cd23f23498490b1b04240a9c7a"
+  }
+]
