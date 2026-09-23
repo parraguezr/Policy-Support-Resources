@@ -1,0 +1,20 @@
+site_name: Policy Support Resources Knowledge Base
+docs_dir: .site-src
+site_dir: .site-build
+theme:
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - toc.follow
+exclude_docs: |
+  mkdocs.yml
+  requirements-docs.txt
+  README.md
+  LICENSE*
+  CHANGELOG*
+  .github/
+  .git/
+  .site-src/
+  .site-build/
