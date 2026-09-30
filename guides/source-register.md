@@ -8,7 +8,7 @@ tags:
   - policy-support
 generated:
   by: codex/gpt-6
-  at: 2026-09-30T09:17:27Z
+  at: 2026-09-30T10:43:43Z
 ---
 
 
@@ -98,6 +98,18 @@ Four further supplied URLs bring the register to **58 supplied URLs** across the
 CentreAI is now classified as a product family rather than an independently established organization; the institute has a separate organization record. The [earlier Policy capture](../external-sources/centreai-policy.md) remains dated 22 September.
 
 The portfolio's other project pages, separate CentreAI product sites and TBI insight articles were not opened. Performance and deployment figures remain source-reported claims.
+
+## Policy-brief PDFs — 30 September 2026
+
+Three further supplied PDF URLs bring the register to **61 supplied URLs**, with **six complete PDFs preserved** in total. Each addition has its original PDF link, a local copy, searchable text and a page-referenced summary.
+
+| Source | Original PDF | Preserved scope | Summary |
+| --- | --- | --- | --- |
+| [UNEN governance futures](../external-sources/unen-governance-futures.md) | [Original PDF](https://www.un.org/sites/un2.un.org/files/2025/04/unen_policy_brief_april_2025.pdf) | full-pdf-preserved; 22 PDF pages | [Governance Futures: Key Insights and Policy Implications](../readings/unen-governance-futures.md) |
+| [ASEAN / UN Women gender and business reporting](../external-sources/asean-gender-business-reporting.md) | [Original PDF](https://asiapacific.unwomen.org/sites/default/files/2022-10/ap-WEE-ASEAN-POLICY-BRIEF-0929.pdf) | full-pdf-preserved; 28 PDF pages | [ASEAN policy action brief on the Women's Empowerment Principles](../readings/asean-gender-business-reporting.md) |
+| [Developing Policy Briefs](../external-sources/developing-policy-briefs.md) | [Original PDF](https://thedocs.worldbank.org/en/doc/e325f4a236440853757892321dc84413-0320012024/original/D2S4-DevelopingPolicyBriefs.pdf) | full-pdf-preserved; 44 PDF pages | [Developing Policy Briefs: training slides](../readings/developing-policy-briefs.md) |
+
+Summaries identify the documents' purpose, main content, relevant pages and limits. The World Bank-hosted resource is a writing guide rather than a substantive policy brief. References cited within these PDFs have not been independently revalidated.
 
 ## Capture manifests
 
