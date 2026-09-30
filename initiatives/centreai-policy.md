@@ -29,7 +29,7 @@ The page identifies the offering as a service, not open-source software. Its hom
 
 ## Relationships
 
-Offered by [CentreAI](../organizations/centreai.md). Compare [SynSapien](synsapien.md) and [Policy Synth](policy-synth.md).
+Offered by [CentreAI](centreai.md). Compare [SynSapien](synsapien.md) and [Policy Synth](policy-synth.md).
 
 ![CentreAI Policy landing page with workflow framing](../assets/screenshots/centreai-policy.png)
 

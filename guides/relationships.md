@@ -25,7 +25,7 @@ Each relationship below is evidenced in the linked resource notes. This director
 | [World Bank Development Impact AI Lab](../organizations/world-bank-development-impact.md) | develops | [ImpactAI](../initiatives/impactai.md) |
 | [INVI](../organizations/invi.md) | develops | [Model for Wicked Problems](../methods/invi-model.md) |
 | [Dragonfly Thinking](../organizations/dragonfly-thinking.md) | develops / publishes | [Method](../methods/dragonfly-method.md), [Diamond-Complete](../readings/diamond-complete.md) |
-| [CentreAI](../organizations/centreai.md) | provides service | [CentreAI Policy](../initiatives/centreai-policy.md) |
+| [CentreAI](../initiatives/centreai.md) | provides service | [CentreAI Policy](../initiatives/centreai-policy.md) |
 | [ATRC](../organizations/atrc.md) | attributed platform support | [ResearchHub](../initiatives/researchhub.md) |
 | [Harvard Growth Lab](../organizations/harvard-growth-lab.md) | produces | [Atlas](../initiatives/atlas-economic-complexity.md), [Product Space](../data-sources/product-space.md) |
 | [UN Statistics Division](../organizations/un-statistics-division.md) | catalogue publisher | [Comtrade Labs](../data-sources/un-comtrade-labs.md) |

@@ -16,7 +16,7 @@ sources:
 ---
 
 
-The supplied policy site presents the [CentreAI Policy service](../initiatives/centreai-policy.md).[^s1]
+The supplied policy site presents the [CentreAI Policy service](centreai-policy.md).[^s1]
 
 Relationship: service provider. This record does not independently establish a legal entity, ownership structure or service performance.
 
@@ -24,4 +24,4 @@ Relationship: service provider. This record does not independently establish a l
 
 [^s1]: [Captured source: centreai-policy](../external-sources/centreai-policy.md).
 
-[Browse organizations](index.md) · [Library home](../index.md)
+[Browse organizations](../organizations/index.md) · [Library home](../index.md)
