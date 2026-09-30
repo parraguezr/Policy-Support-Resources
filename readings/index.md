@@ -10,7 +10,7 @@
 * [Critique of The Agentic State](./agentic-state-commentary.md) - Beth Simone Noveck\'s questions about institutions and transition\.
 * [Developing Policy Briefs\: Informing Policies with Ecosystem and Landscape Assessment Results](./developing-policy-briefs.md) - Source\-backed PDF summary with original and preserved copies\.
 * [Diamond\-Complete](./diamond-complete.md) - Depth\, breadth and AI fluency as complementary capabilities\.
-* [Governance Futures\: Key Insights and Policy Implications](./unen-governance-futures.md) - Source\-backed PDF summary with original and preserved copies\.
+* [Governance Futures\: Key Insights and Policy Implications](./unen-governance-futures.md) - UNEN foresight brief on governance scenarios to 2040 and stakeholder actions\.
 * [Government\-strategy reading trail](./government-strategy-linkedin.md) - Giulio Quaggiotto\'s curated pointers to a changing strategy practice\.
 * [Knowledge Twins](./knowledge-twins.md) - Combine multiple forms of intelligence for shared public learning\.
 * [Making the Impossible Possible — Impact Studios](./impact-studios-deck.md) - Visual explanation of AI and collective problem\-solving\.
