@@ -2,6 +2,7 @@
 
 ## Source
 
+* [Advancing Gender and Business Reporting to Implement the Women’s Empowerment Principles \(WEPs\) as Part of an Inclusive COVID\-19 Economic Recovery](./asean-gender-business-reporting.md) - Original PDF preserved locally with retrieval metadata\.
 * [Agent\-based modelling](./agent-based-modelling.md) - Source record with capture scope and original URL\.
 * [Antecedentes TDR \- Google Drive](./antecedentes-tdr.md) - Source record with capture scope and original URL\.
 * [Bayesian Belief Networks](./bayesian-belief-networks.md) - Source record with capture scope and original URL\.
@@ -15,11 +16,13 @@
 * [Contribution Analysis](./contribution-analysis.md) - Source record with capture scope and original URL\.
 * [Creating useful policy steering rooms \| Apolitical](./policy-steering-rooms.md) - Source record with capture scope and original URL\.
 * [Democratic Government and Shared Intelligence](./knowledge-twins.md) - Source record with capture scope and original URL\.
+* [Developing Policy Briefs\: Informing Policies with Ecosystem and Landscape Assessment Results](./developing-policy-briefs.md) - Original PDF preserved locally with retrieval metadata\.
 * [Diamond\-Complete\: The Shape of Work That Compounds with AI — Dragonfly Thinking](./diamond-complete.md) - Source record with capture scope and original URL\.
 * [Difference in Differences](./difference-in-differences.md) - Source record with capture scope and original URL\.
 * [DIME Artificial Intelligence](./dime-ai.md) - Source record with capture scope and original URL\.
 * [eBook\: The Policy Playbook](./policy-playbook.md) - Source record with capture scope and original URL\.
 * [FiskalLink AI — Ministry of Finance](./fiskallink.md) - Selected excerpt from Eryawan Presma Yulianrifat\'s project case study\.
+* [Governance Futures\: Key Insights and Policy Implications](./unen-governance-futures.md) - Original PDF preserved locally with retrieval metadata\.
 * [Green Research Overview – Research Portal Denmark](./green-research.md) - Source record with capture scope and original URL\.
 * [Home \| UAE Research Map](./uae-research-map.md) - Source record with capture scope and original URL\.
 * [Impact AI \- Better Evidence\, Better Decisions \- World Bank Group](./impactai.md) - Source record with capture scope and original URL\.
