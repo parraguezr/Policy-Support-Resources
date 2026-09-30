@@ -8,7 +8,7 @@
 * [Can AI Do Strategy\?](./can-ai-do-strategy.md) - A framework separating strategic capability from delegation\.
 * [Causal Loop Diagrams\: A Short Handbook](./causal-loop-handbook.md) - Michael Lawrence\'s illustrated introduction\, with local PDF and selected pages\.
 * [Critique of The Agentic State](./agentic-state-commentary.md) - Beth Simone Noveck\'s questions about institutions and transition\.
-* [Developing Policy Briefs\: Informing Policies with Ecosystem and Landscape Assessment Results](./developing-policy-briefs.md) - Source\-backed PDF summary with original and preserved copies\.
+* [Developing Policy Briefs\: Informing Policies with Ecosystem and Landscape Assessment Results](./developing-policy-briefs.md) - Training slides on turning ecosystem and landscape assessments into policy briefs\.
 * [Diamond\-Complete](./diamond-complete.md) - Depth\, breadth and AI fluency as complementary capabilities\.
 * [Governance Futures\: Key Insights and Policy Implications](./unen-governance-futures.md) - UNEN foresight brief on governance scenarios to 2040 and stakeholder actions\.
 * [Government\-strategy reading trail](./government-strategy-linkedin.md) - Giulio Quaggiotto\'s curated pointers to a changing strategy practice\.
