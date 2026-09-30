@@ -28,5 +28,50 @@
     "extracted_text": "external-sources/impact-studios-deck.txt",
     "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
     "text_sha256": "d842e5a0ae58d8b2cfff506694889367ebff17cd23f23498490b1b04240a9c7a"
+  },
+  {
+    "slug": "unen-governance-futures",
+    "url": "https://www.un.org/sites/un2.un.org/files/2025/04/unen_policy_brief_april_2025.pdf",
+    "title": "Governance Futures: Key Insights and Policy Implications",
+    "author": "United Nations Economist Network (UNEN)",
+    "bytes": 2772954,
+    "sha256": "0c65f1767e10fbe02fd6f657a8bef9753dd7a67ccffaee134d439eeefc2ae3a9",
+    "pages": 22,
+    "media_type": "application/pdf",
+    "captured_at": "2026-09-30T10:30:32Z",
+    "preservation": "full-pdf-preserved",
+    "extracted_text": "external-sources/unen-governance-futures.txt",
+    "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
+    "text_sha256": "e8dd1363a3e526ad41cfdcbb0db54f06de64f1c3bf5a8006ec857b1855454c81"
+  },
+  {
+    "slug": "asean-gender-business-reporting",
+    "url": "https://asiapacific.unwomen.org/sites/default/files/2022-10/ap-WEE-ASEAN-POLICY-BRIEF-0929.pdf",
+    "title": "Advancing Gender and Business Reporting to Implement the Women’s Empowerment Principles (WEPs) as Part of an Inclusive COVID-19 Economic Recovery",
+    "author": "UN Women; ASEAN",
+    "bytes": 1242151,
+    "sha256": "5025f1e9f0dc8c80f56fe4916dd01e48a240379bfea4105a7b4138784829ce13",
+    "pages": 28,
+    "media_type": "application/pdf",
+    "captured_at": "2026-09-30T10:30:32Z",
+    "preservation": "full-pdf-preserved",
+    "extracted_text": "external-sources/asean-gender-business-reporting.txt",
+    "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
+    "text_sha256": "ccadad787dd4627ac64e7e38b48b2adf714fa8249ff316b7cf161a69eee727d6"
+  },
+  {
+    "slug": "developing-policy-briefs",
+    "url": "https://thedocs.worldbank.org/en/doc/e325f4a236440853757892321dc84413-0320012024/original/D2S4-DevelopingPolicyBriefs.pdf",
+    "title": "Developing Policy Briefs: Informing Policies with Ecosystem and Landscape Assessment Results",
+    "author": "Boris F. Ochoa-Tocachi; ATUK Consultoría Estratégica",
+    "bytes": 2606957,
+    "sha256": "c4aa5609cfbf4f1134047f188258cde7efa450db801564f32435a89a81711bee",
+    "pages": 44,
+    "media_type": "application/pdf",
+    "captured_at": "2026-09-30T10:30:32Z",
+    "preservation": "full-pdf-preserved",
+    "extracted_text": "external-sources/developing-policy-briefs.txt",
+    "text_method": "pdftotext -layout; automated extraction, original PDF authoritative",
+    "text_sha256": "a10e8ae426da33b26d29b5c33e1db80e053d4915204ae0c7dbc19cd665c40c0a"
   }
 ]
