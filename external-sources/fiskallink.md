@@ -33,5 +33,5 @@ Capture: 30 September 2026. Scope: **selected-excerpt**. This record preserves s
 ## Selected excerpt
 
 > It turns a plain-language policy theme into a reviewed, traceable analysis of a large budget.
-
+>
 > the on-screen figures are sample data

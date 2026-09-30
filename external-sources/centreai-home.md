@@ -21,9 +21,9 @@ Capture: 30 September 2026. Scope: **selected-excerpt**. This record preserves s
 ## Selected excerpt
 
 > A growing family of AI products for public servants.
-
+>
 > Codify and Policy
-
+>
 > Turn legislation into structured, searchable knowledge.
 
 Image attribution: Tony Blair Institute for Global Change.

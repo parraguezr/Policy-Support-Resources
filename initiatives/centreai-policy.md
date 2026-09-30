@@ -8,7 +8,7 @@ tags:
   - policy-support
 generated:
   by: codex/gpt-6
-  at: 2026-09-22T19:08:21.725Z
+  at: 2026-09-30T09:17:27Z
 sources:
   - id: s1
     resource: ../external-sources/centreai-policy.md
@@ -29,7 +29,7 @@ The page identifies the offering as a service, not open-source software. Its hom
 
 ## Relationships
 
-Offered by [CentreAI](centreai.md). Compare [SynSapien](synsapien.md) and [Policy Synth](policy-synth.md).
+Part of the [CentreAI product family](centreai.md), presented by the [Tony Blair Institute for Global Change](../organizations/tony-blair-institute.md); see the [current family record](centreai.md) for the homepage attribution. Compare [SynSapien](synsapien.md) and [Policy Synth](policy-synth.md).
 
 ![CentreAI Policy landing page with workflow framing](../assets/screenshots/centreai-policy.png)
 

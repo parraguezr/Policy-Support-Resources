@@ -8,7 +8,7 @@ tags:
   - policy-support
 generated:
   by: codex/gpt-6
-  at: 2026-09-22T19:11:47.479Z
+  at: 2026-09-30T09:17:27Z
 sources:
   - id: s1
     resource: ../external-sources/undp-sensemaking.md
@@ -40,6 +40,10 @@ These are library recommendations, not an approved project roadmap:
 Only the supplied public landing page was reviewed for project context. Its feature descriptions are not a functional audit of all dashboard views.
 
 ![UNDP Sense-Making Dashboard public introduction](../assets/screenshots/undp-sensemaking.png)
+
+## Additional reference cases
+
+For design comparison, see [FiskalLink AI](../initiatives/fiskallink.md) for reviewed budget-theme tagging and the [Eryawan projects portfolio](../initiatives/eryawan-projects.md) for adjacent legal and research systems. These are reference cases, not evaluated recommendations or an approved project roadmap.
 
 ## Connections
 

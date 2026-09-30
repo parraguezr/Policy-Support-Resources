@@ -1,21 +1,21 @@
 ---
 type: Guide
 title: Source coverage register
-description: All 54 supplied URLs, their capture scope and curated destinations.
+description: Supplied URLs, their capture scopes and curated destinations.
 status: draft
 tags:
   - guides
   - policy-support
 generated:
   by: codex/gpt-6
-  at: 2026-09-22T19:13:52.591Z
+  at: 2026-09-30T09:17:27Z
 ---
 
 
 
 This first version accounts for **54 supplied URLs**, including the two project sites and three OpenKnowledge setup references. It preserves three complete PDF files; other pages have curated notes and short selected excerpts, not full offline copies. Capture date: **22 September 2026**.
 
-## Scope exceptions
+## Initial capture scope exceptions — 22 September 2026
 
 - The private Drive folder is a **listing only**: nine child files were not opened.
 - The two Mandarin pages are **public previews only**; the ebook and gated text were not read.
@@ -83,6 +83,21 @@ This first version accounts for **54 supplied URLs**, including the two project 
 | [OpenKnowledge](../external-sources/openknowledge-home.md) | [Original](<https://openknowledge.ai/>) | page-reviewed-no-excerpt | [OpenKnowledge and this OKF library](../software/openknowledge.md) |
 | [OpenKnowledge repository](../external-sources/openknowledge-code.md) | [Original](<https://github.com/inkeep/open-knowledge>) | page-reviewed-no-excerpt | [OpenKnowledge and this OKF library](../software/openknowledge.md) |
 | [OpenKnowledge overview](../external-sources/openknowledge-overview.md) | [Original](<https://openknowledge.ai/docs/get-started/overview>) | page-reviewed-no-excerpt | [OpenKnowledge and this OKF library](../software/openknowledge.md); [How this knowledge base works](../guides/library-conventions.md) |
+
+## Additions — 30 September 2026
+
+Four further supplied URLs bring the register to **58 supplied URLs** across the two capture dates. Each new page has a selected excerpt and a curated note; none is a full offline archive.
+
+| Source | Original URL | Preserved scope | Curated notes |
+| --- | --- | --- | --- |
+| [CentreAI homepage](../external-sources/centreai-home.md) | [Original](<https://centreai.global/>) | selected-excerpt; homepage and product labels | [CentreAI product family](../initiatives/centreai.md); [Tony Blair Institute](../organizations/tony-blair-institute.md) |
+| [Tony Blair Institute homepage](../external-sources/tony-blair-institute.md) | [Original](<https://institute.global/>) | selected-excerpt; public homepage | [Tony Blair Institute for Global Change](../organizations/tony-blair-institute.md) |
+| [FiskalLink case study](../external-sources/fiskallink.md) | [Original](<https://eryawan.com/projects/fiskallink/>) | selected-excerpt; case study and visible illustrative demo labels | [FiskalLink AI](../initiatives/fiskallink.md) |
+| [Eryawan projects index](../external-sources/eryawan-projects.md) | [Original](<https://eryawan.com/projects/>) | selected-excerpt; portfolio listing | [Eryawan projects portfolio](../initiatives/eryawan-projects.md) |
+
+CentreAI is now classified as a product family rather than an independently established organization; the institute has a separate organization record. The [earlier Policy capture](../external-sources/centreai-policy.md) remains dated 22 September.
+
+The portfolio's other project pages, separate CentreAI product sites and TBI insight articles were not opened. Performance and deployment figures remain source-reported claims.
 
 ## Capture manifests
 

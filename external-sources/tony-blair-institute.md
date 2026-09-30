@@ -21,7 +21,7 @@ Capture: 30 September 2026. Scope: **selected-excerpt**. This record preserves s
 ## Selected excerpt
 
 > Our mission is simple but ambitious: to help leaders deliver change for their people.
-
+>
 > not-for-profit, non-party-political organisation
-
+>
 > CentreAI: Rebuilding the leader’s office
