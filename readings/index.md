@@ -3,7 +3,7 @@
 ## Reading
 
 * [A better way to do public\-sector strategy](./public-sector-strategy.md) - Vaughn Tan on direction and coordination under uncertainty\.
-* [Advancing Gender and Business Reporting to Implement the Women’s Empowerment Principles \(WEPs\) as Part of an Inclusive COVID\-19 Economic Recovery](./asean-gender-business-reporting.md) - Source\-backed PDF summary with original and preserved copies\.
+* [Advancing Gender and Business Reporting to Implement the Women’s Empowerment Principles \(WEPs\) as Part of an Inclusive COVID\-19 Economic Recovery](./asean-gender-business-reporting.md) - ASEAN and UN Women action brief on gender\-inclusive business policies and reporting\.
 * [Antecedentes TDR — private collection inventory](./antecedentes-tdr.md) - Nine listed files\; child\-document content not accessed\.
 * [Can AI Do Strategy\?](./can-ai-do-strategy.md) - A framework separating strategic capability from delegation\.
 * [Causal Loop Diagrams\: A Short Handbook](./causal-loop-handbook.md) - Michael Lawrence\'s illustrated introduction\, with local PDF and selected pages\.
