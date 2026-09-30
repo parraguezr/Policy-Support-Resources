@@ -526,5 +526,45 @@
     "method": "rendered-browser",
     "scope": "selected-excerpt",
     "characters_read": 927
+  },
+  {
+    "id": "centreai-home-20260930",
+    "slug": "centreai-home",
+    "url": "https://centreai.global/",
+    "title": "CentreAI — product family",
+    "captured_at": "2026-09-30T09:09:06Z",
+    "method": "rendered-browser",
+    "scope": "selected-excerpt",
+    "source_record": "../../external-sources/centreai-home.md"
+  },
+  {
+    "id": "tony-blair-institute-20260930",
+    "slug": "tony-blair-institute",
+    "url": "https://institute.global/",
+    "title": "Tony Blair Institute for Global Change — homepage",
+    "captured_at": "2026-09-30T09:09:06Z",
+    "method": "native-web",
+    "scope": "selected-excerpt",
+    "source_record": "../../external-sources/tony-blair-institute.md"
+  },
+  {
+    "id": "fiskallink-20260930",
+    "slug": "fiskallink",
+    "url": "https://eryawan.com/projects/fiskallink/",
+    "title": "FiskalLink AI — Ministry of Finance",
+    "captured_at": "2026-09-30T09:09:06Z",
+    "method": "rendered-browser",
+    "scope": "selected-excerpt",
+    "source_record": "../../external-sources/fiskallink.md"
+  },
+  {
+    "id": "eryawan-projects-20260930",
+    "slug": "eryawan-projects",
+    "url": "https://eryawan.com/projects/",
+    "title": "Projects — Eryawan Presma Yulianrifat",
+    "captured_at": "2026-09-30T09:09:06Z",
+    "method": "rendered-browser",
+    "scope": "selected-excerpt",
+    "source_record": "../../external-sources/eryawan-projects.md"
   }
 ]
