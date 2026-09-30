@@ -3,11 +3,14 @@
 ## Reading
 
 * [A better way to do public\-sector strategy](./public-sector-strategy.md) - Vaughn Tan on direction and coordination under uncertainty\.
+* [Advancing Gender and Business Reporting to Implement the Women’s Empowerment Principles \(WEPs\) as Part of an Inclusive COVID\-19 Economic Recovery](./asean-gender-business-reporting.md) - Source\-backed PDF summary with original and preserved copies\.
 * [Antecedentes TDR — private collection inventory](./antecedentes-tdr.md) - Nine listed files\; child\-document content not accessed\.
 * [Can AI Do Strategy\?](./can-ai-do-strategy.md) - A framework separating strategic capability from delegation\.
 * [Causal Loop Diagrams\: A Short Handbook](./causal-loop-handbook.md) - Michael Lawrence\'s illustrated introduction\, with local PDF and selected pages\.
 * [Critique of The Agentic State](./agentic-state-commentary.md) - Beth Simone Noveck\'s questions about institutions and transition\.
+* [Developing Policy Briefs\: Informing Policies with Ecosystem and Landscape Assessment Results](./developing-policy-briefs.md) - Source\-backed PDF summary with original and preserved copies\.
 * [Diamond\-Complete](./diamond-complete.md) - Depth\, breadth and AI fluency as complementary capabilities\.
+* [Governance Futures\: Key Insights and Policy Implications](./unen-governance-futures.md) - Source\-backed PDF summary with original and preserved copies\.
 * [Government\-strategy reading trail](./government-strategy-linkedin.md) - Giulio Quaggiotto\'s curated pointers to a changing strategy practice\.
 * [Knowledge Twins](./knowledge-twins.md) - Combine multiple forms of intelligence for shared public learning\.
 * [Making the Impossible Possible — Impact Studios](./impact-studios-deck.md) - Visual explanation of AI and collective problem\-solving\.
