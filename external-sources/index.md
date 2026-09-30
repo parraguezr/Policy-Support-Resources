@@ -10,6 +10,7 @@
 * [Causal Loop Diagrams](./causal-loop-diagrams.md) - Source record with capture scope and original URL\.
 * [Causal Loop Diagrams\: A Short Handbook](./causal-loop-handbook.md) - Source record with capture scope and original URL\.
 * [CentreAI Policy](./centreai-policy.md) - Source record with capture scope and original URL\.
+* [CentreAI — product family](./centreai-home.md) - Selected homepage excerpt and product\-family attribution\.
 * [CitizensFoundation\/policy\-synth\: Policy Synth is a TypeScript class library designed to streamline and enhance decision\-making processes through multi\-scale AI agent logic flow\.](./policy-synth-code.md) - Source record with capture scope and original URL\.
 * [Contribution Analysis](./contribution-analysis.md) - Source record with capture scope and original URL\.
 * [Creating useful policy steering rooms \| Apolitical](./policy-steering-rooms.md) - Source record with capture scope and original URL\.
@@ -18,6 +19,7 @@
 * [Difference in Differences](./difference-in-differences.md) - Source record with capture scope and original URL\.
 * [DIME Artificial Intelligence](./dime-ai.md) - Source record with capture scope and original URL\.
 * [eBook\: The Policy Playbook](./policy-playbook.md) - Source record with capture scope and original URL\.
+* [FiskalLink AI — Ministry of Finance](./fiskallink.md) - Selected excerpt from Eryawan Presma Yulianrifat\'s project case study\.
 * [Green Research Overview – Research Portal Denmark](./green-research.md) - Source record with capture scope and original URL\.
 * [Home \| UAE Research Map](./uae-research-map.md) - Source record with capture scope and original URL\.
 * [Impact AI \- Better Evidence\, Better Decisions \- World Bank Group](./impactai.md) - Source record with capture scope and original URL\.
@@ -36,6 +38,7 @@
 * [Post \| LinkedIn](./government-strategy-linkedin.md) - Source record with capture scope and original URL\.
 * [Process Tracing](./process-tracing.md) - Source record with capture scope and original URL\.
 * [Product Space — The Atlas of Economic Complexity](./product-space.md) - Source record with capture scope and original URL\.
+* [Projects — Eryawan Presma Yulianrifat](./eryawan-projects.md) - Selected excerpt from a developer\'s public systems portfolio\.
 * [Reimagination \- by Manish Srivastava \- Digital Statecraft](./reimagination.md) - Source record with capture scope and original URL\.
 * [Research Radar\: The Agentic State\: A 20\-Year Wish List\, Finally Within Reach\?](./agentic-state-commentary.md) - Source record with capture scope and original URL\.
 * [ResearchHub](./researchhub.md) - Source record with capture scope and original URL\.
@@ -50,6 +53,7 @@
 * [The Helix Moment · Suhit Anantula](./helix-moment.md) - Source record with capture scope and original URL\.
 * [The public sector needs a better way to do strategy \(and I’m building one\) \- Vaughn Tan](./public-sector-strategy.md) - Source record with capture scope and original URL\.
 * [The Velocity White Papers](./velocity-white-papers.md) - Source record with capture scope and original URL\.
+* [Tony Blair Institute for Global Change — homepage](./tony-blair-institute.md) - Selected mission excerpt from the institute\'s homepage\.
 * [UAE R\&D Ecosystem \| UAE Research Map](./uae-ecosystem.md) - Source record with capture scope and original URL\.
 * [UN Comtrade](./un-comtrade-labs.md) - Source record with capture scope and original URL\.
 * [Understanding the Intelligence Behind the Answer](./intelligence-behind-answer.md) - Source record with capture scope and original URL\.
