@@ -13,6 +13,7 @@ generated:
 
 
 
+
 This first version accounts for **54 supplied URLs**, including the two project sites and three OpenKnowledge setup references. It preserves three complete PDF files; other pages have curated notes and short selected excerpts, not full offline copies. Capture date: **22 September 2026**.
 
 ## Initial capture scope exceptions — 22 September 2026
